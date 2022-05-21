@@ -1,0 +1,32 @@
+
+.striked{
+    text-decoration: line-through;
+    border:1px solid black;
+    width:200px;
+    height:30px;
+    margin:auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.none{
+    text-decoration: none;
+}
+
+.main_div{
+    /* border:1px solid black; */
+    width:400px;
+    height:500px;
+    margin:auto;
+    padding: 20px;
+    background-image: url("https://image.shutterstock.com/image-vector/modern-design-600w-152461202.jpg");
+}
+.main_div >input,button {
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    border: 0.2px solid grey;
+    background: rgb(182, 229, 111);
+
+}
+
